@@ -1,3 +1,5 @@
+![](https://i.imgur.com/3YaoE5m.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
